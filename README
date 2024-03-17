@@ -1,0 +1,31 @@
+
+TX & RX V24.1
+
+*** TX ***
+
+- Linh kiện TX:
+	+ Arduino nano
+	+ NRF24L01 + 1 tụ 10-20uF, 16-50V
+	+ 2 Joystick
+	+ Module còi Low level
+	+ Mạch hạ áp 5V 3A
+	+ Mạch hạ áp 3V3 1A
+	+ 1 biến trở 10K
+	+ 1 công tắc Switch ON/OFF
+	+ 1 công tắc Switch 3 vị trí
+	+ 2 điên trở 10K, 1 điện trở 6K6
+	+ Pin nguồn 9-12v
+
+- Linh kiện RX:
+	+ Arduino nano 
+	+ NRF24L01 + 1 tụ 10-20uF, 16-50V
+	+ Mạch hạ áp 5V 3A
+	+ Mạch hạ áp 3V3 1A
+	
+*** MÔ TẢ CHỨC NĂNG CƠ BẢN ***
+
+- Tầm hoạt động 100m - 1Km tuỳ vào môi trường và điều kiện thời tiết
+- Có 8 kênh điều khiển
+- TX và RX được Fix cứng
+- Switch ON/OFF dùng để chuyển Mode cho kênh số 3. Kênh số 3 sẽ có 2 Mode hoạt động.
+- Khi bật nguồn nếu KHÔNG kết nối được với NRF24L01 còi sẽ hú liên tục.
