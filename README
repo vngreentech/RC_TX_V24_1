@@ -29,3 +29,7 @@ TX & RX V24.1
 - TX và RX được Fix cứng
 - Switch ON/OFF dùng để chuyển Mode cho kênh số 3. Kênh số 3 sẽ có 2 Mode hoạt động.
 - Khi bật nguồn nếu KHÔNG kết nối được với NRF24L01 còi sẽ hú liên tục.
+
+Author: NhanNguyen
+Youtube: https://www.youtube.com/@GreenTechnology_GreenGroup
+Website: https://vngreentech.com/
